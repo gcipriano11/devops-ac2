@@ -11,4 +11,4 @@
 
 #PULL - git pull https://github.com/gcipriano11/devops-ac2.git
 
-#PUSH - 
+#PUSH - git push 
