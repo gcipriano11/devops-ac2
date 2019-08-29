@@ -7,4 +7,8 @@
 
 #FETCH - git fetch https://github.com/gcipriano11/devops-ac2.git
 
-#COMMIT -  
+#COMMIT - git commit -am "Adicionando prints e atualizando o README.md"
+
+#PULL - git pull https://github.com/gcipriano11/devops-ac2.git
+
+#PUSH - 
